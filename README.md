@@ -10,3 +10,5 @@
   * https://vimeo.com/68390508
 * Software craftsmanship
   * https://www.youtube.com/watch?v=OIHvp7WzuH0
+* Crafting Wicked Domain Models
+ * https://vimeo.com/43598193
