@@ -12,3 +12,5 @@
   * https://www.youtube.com/watch?v=OIHvp7WzuH0
 * Crafting Wicked Domain Models
  * https://vimeo.com/43598193
+* Functional programming in Excel
+ * https://vimeo.com/162206549
