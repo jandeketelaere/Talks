@@ -14,3 +14,5 @@
  * https://vimeo.com/43598193
 * Functional programming in Excel
  * https://vimeo.com/162206549
+* Creativity
+ * https://www.youtube.com/watch?v=4j-Lz0D5_ck
