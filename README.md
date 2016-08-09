@@ -16,3 +16,5 @@
  * https://vimeo.com/162206549
 * Creativity
  * https://www.youtube.com/watch?v=4j-Lz0D5_ck
+* An Introduction to Artificial Intelligence
+ * https://vimeo.com/113703369 
