@@ -17,4 +17,6 @@
 * Creativity
  * https://www.youtube.com/watch?v=4j-Lz0D5_ck
 * An Introduction to Artificial Intelligence
- * https://vimeo.com/113703369 
+ * https://vimeo.com/113703369
+* ORMS - YOU’RE DOING IT WRONG
+ * https://vimeo.com/111288389
