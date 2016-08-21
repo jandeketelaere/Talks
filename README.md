@@ -22,3 +22,5 @@
  * https://vimeo.com/111288389
 * Why work doesn't happen at work
  * http://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work
+* The Future of Programming
+ * https://www.youtube.com/watch?v=ecIWPzGEbFc 
