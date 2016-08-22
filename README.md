@@ -24,3 +24,5 @@
  * http://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work
 * The Future of Programming
  * https://www.youtube.com/watch?v=ecIWPzGEbFc 
+* Software, Faster
+ * https://www.youtube.com/watch?v=USc-yLHXNUg 
