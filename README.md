@@ -28,3 +28,5 @@
  * https://www.youtube.com/watch?v=USc-yLHXNUg 
 * Who do You Trust? Beware of Your Brain
  * https://www.youtube.com/watch?v=IGHhCmdIvuI
+* 8 Lines of Code
+ * https://www.infoq.com/presentations/8-lines-code-refactoring
