@@ -11,22 +11,22 @@
 * Software craftsmanship
   * https://www.youtube.com/watch?v=OIHvp7WzuH0
 * Crafting Wicked Domain Models
- * https://vimeo.com/43598193
+  * https://vimeo.com/43598193
 * Functional programming in Excel
- * https://vimeo.com/162206549
+  * https://vimeo.com/162206549
 * Creativity
- * https://www.youtube.com/watch?v=4j-Lz0D5_ck
+  * https://www.youtube.com/watch?v=4j-Lz0D5_ck
 * An Introduction to Artificial Intelligence
- * https://vimeo.com/113703369
+  * https://vimeo.com/113703369
 * ORMS - YOU’RE DOING IT WRONG
- * https://vimeo.com/111288389
+  * https://vimeo.com/111288389
 * Why work doesn't happen at work
- * http://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work
+  * http://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work
 * The Future of Programming
- * https://www.youtube.com/watch?v=ecIWPzGEbFc 
+  * https://www.youtube.com/watch?v=ecIWPzGEbFc 
 * Software, Faster
- * https://www.youtube.com/watch?v=USc-yLHXNUg 
+  * https://www.youtube.com/watch?v=USc-yLHXNUg 
 * Who do You Trust? Beware of Your Brain
- * https://www.youtube.com/watch?v=IGHhCmdIvuI
+  * https://www.youtube.com/watch?v=IGHhCmdIvuI
 * 8 Lines of Code
- * https://www.infoq.com/presentations/8-lines-code-refactoring
+  * https://www.infoq.com/presentations/8-lines-code-refactoring
