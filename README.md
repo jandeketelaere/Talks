@@ -30,3 +30,5 @@
   * https://www.youtube.com/watch?v=IGHhCmdIvuI
 * 8 Lines of Code
   * https://www.infoq.com/presentations/8-lines-code-refactoring
+* From Dependency injection to dependency rejection
+  * https://www.youtube.com/watch?v=cxs7oLGrxQ4
