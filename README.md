@@ -32,3 +32,5 @@
   * https://www.infoq.com/presentations/8-lines-code-refactoring
 * From Dependency injection to dependency rejection
   * https://www.youtube.com/watch?v=cxs7oLGrxQ4
+* Avoiding Microservice Megadisasters
+  * https://www.youtube.com/watch?v=gfh-VCTwMw8
