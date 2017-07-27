@@ -34,3 +34,5 @@
   * https://www.youtube.com/watch?v=cxs7oLGrxQ4
 * Avoiding Microservice Megadisasters
   * https://www.youtube.com/watch?v=gfh-VCTwMw8
+* Functional architecture - The pits of success
+  * https://www.youtube.com/watch?v=US8QG9I1XW0
