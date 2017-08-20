@@ -36,3 +36,5 @@
   * https://www.youtube.com/watch?v=gfh-VCTwMw8
 * Functional architecture - The pits of success
   * https://www.youtube.com/watch?v=US8QG9I1XW0
+* Functional programming design patterns
+  * https://vimeo.com/113588389
