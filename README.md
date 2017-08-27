@@ -38,3 +38,5 @@
   * https://www.youtube.com/watch?v=US8QG9I1XW0
 * Functional programming design patterns
   * https://vimeo.com/113588389
+* What Does SENIOR Mean?
+  * https://www.youtube.com/watch?v=cvHK5tRUCrs
