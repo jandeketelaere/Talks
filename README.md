@@ -40,3 +40,5 @@
   * https://vimeo.com/113588389
 * What Does SENIOR Mean?
   * https://www.youtube.com/watch?v=cvHK5tRUCrs
+* Experiments, the Good, the Bad, and the Beautiful
+  * https://www.youtube.com/watch?v=wq3_UYoM7Oc
