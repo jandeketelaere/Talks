@@ -38,6 +38,8 @@
   * https://www.youtube.com/watch?v=US8QG9I1XW0
 * Functional programming design patterns
   * https://vimeo.com/113588389
+* Mob Programming: A Whole Team Approach
+  * https://www.youtube.com/watch?v=SHOVVnRB4h0
 * What Does SENIOR Mean?
   * https://www.youtube.com/watch?v=cvHK5tRUCrs
 * Experiments, the Good, the Bad, and the Beautiful
