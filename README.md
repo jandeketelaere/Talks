@@ -44,3 +44,5 @@
   * https://www.youtube.com/watch?v=cvHK5tRUCrs
 * Experiments, the Good, the Bad, and the Beautiful
   * https://www.youtube.com/watch?v=wq3_UYoM7Oc
+* Dependency Injection revisited
+  * https://www.youtube.com/watch?v=4hvIwRHylj0
