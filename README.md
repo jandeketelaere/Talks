@@ -46,3 +46,5 @@
   * https://www.youtube.com/watch?v=wq3_UYoM7Oc
 * Dependency Injection revisited
   * https://www.youtube.com/watch?v=4hvIwRHylj0
+* Lead Software Developers Better By Letting Go!
+  * https://www.youtube.com/watch?v=Fp5oQyNV_ws
