@@ -48,3 +48,5 @@
   * https://www.youtube.com/watch?v=4hvIwRHylj0
 * Lead Software Developers Better By Letting Go!
   * https://www.youtube.com/watch?v=Fp5oQyNV_ws
+* Domain Modeling Made Functional
+  * https://www.youtube.com/watch?v=Up7LcbGZFuo
