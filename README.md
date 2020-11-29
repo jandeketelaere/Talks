@@ -50,3 +50,5 @@
   * https://www.youtube.com/watch?v=Fp5oQyNV_ws
 * Domain Modeling Made Functional
   * https://www.youtube.com/watch?v=Up7LcbGZFuo
+* Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript
+  * https://www.youtube.com/watch?v=3VQ382QG-y4&ab_channel=FullstackAcademy
