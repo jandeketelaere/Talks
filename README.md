@@ -52,3 +52,7 @@
   * https://www.youtube.com/watch?v=Up7LcbGZFuo
 * Lambda Calculus - Fundamentals of Lambda Calculus & Functional Programming in JavaScript
   * https://www.youtube.com/watch?v=3VQ382QG-y4&ab_channel=FullstackAcademy
+* The Art of Code
+  * https://www.youtube.com/watch?v=6avJHaC3C2U&ab_channel=NDCConferences
+* Functional data that adapts to change
+  * https://www.youtube.com/watch?v=us4dp7Ksly0&ab_channel=NDCConferences
