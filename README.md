@@ -56,3 +56,5 @@
   * https://www.youtube.com/watch?v=6avJHaC3C2U&ab_channel=NDCConferences
 * Functional data that adapts to change
   * https://www.youtube.com/watch?v=us4dp7Ksly0&ab_channel=NDCConferences
+* Building a parser in C#, from first principles
+  * https://www.youtube.com/watch?v=klHyc9HQnNQ
