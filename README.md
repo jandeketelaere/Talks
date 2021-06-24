@@ -58,3 +58,5 @@
   * https://www.youtube.com/watch?v=us4dp7Ksly0&ab_channel=NDCConferences
 * Building a parser in C#, from first principles
   * https://www.youtube.com/watch?v=klHyc9HQnNQ
+* Thirteen ways of looking at a Turtle
+  * https://www.youtube.com/watch?v=g06igkxbF78&ab_channel=NDCConferences
