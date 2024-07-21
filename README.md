@@ -60,3 +60,5 @@
   * https://www.youtube.com/watch?v=klHyc9HQnNQ
 * Thirteen ways of looking at a Turtle
   * https://www.youtube.com/watch?v=g06igkxbF78&ab_channel=NDCConferences
+* An Introduction to Residuality Theory
+  * https://www.youtube.com/watch?v=0wcUG2EV-7E&ab_channel=NDCConferences
