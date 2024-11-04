@@ -62,3 +62,5 @@
   * https://www.youtube.com/watch?v=g06igkxbF78&ab_channel=NDCConferences
 * An Introduction to Residuality Theory
   * https://www.youtube.com/watch?v=0wcUG2EV-7E&ab_channel=NDCConferences
+* What Game Theory Reveals About Life, The Universe, and Everything
+  * https://www.youtube.com/watch?v=mScpHTIi-kM&ab_channel=Veritasium
